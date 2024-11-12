@@ -1,0 +1,18 @@
+{
+  "name": "shopping-cart-api",
+  "version": "0.0.0",
+  "description": "shopping cart system API. where multiple users can purchase products from a shared inventory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KayMohh/shopping-cart-api"
+  },
+  "author": "Muhammad Kadir",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/KayMohh/shopping-cart-api/issues"
+  }
+}
